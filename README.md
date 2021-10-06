@@ -1,4 +1,4 @@
-### Hi there 👋 I am Antima 
+### Hi there, 👋 I am Antima 
 
 - :woman_technologist: A software engineer in Persistent System Limited.
 - :woman_student: An Alumini of Rajkiya Engineering College,Banda:post_office:
