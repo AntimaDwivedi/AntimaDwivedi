@@ -3,17 +3,15 @@
 
 - :woman_student:  An Alumni of **Rajkiya Engineering College,Banda**:post_office:<br>
 
-- 🌱 I’m currently learning **AWS and Cloud Native Application Development.**
-
 - 👯 I’m looking to collaborate on **Tech-startups**
 
 - 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/antimadwivedi28/articles](https://auth.geeksforgeeks.org/user/antimadwivedi28/articles)
 
 - 📫 How to reach me **antimadwivedi28@gmail.com**
 
-- :point_right:My hobbies include :books: Reading , :airplane: traveling and :chess_pawn: playing chess. 
+- :point_right:My hobbies include Reading :books:, Traveling :airplane: ,and Playing Chess :chess_pawn:.
 
-- ⚡ Fun fact **I am kinda 'Weirdo'.**
+- ⚡ Fun fact **I am a 'Weirdo'.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
