@@ -19,7 +19,6 @@
 <a href="https://linkedin.com/in/antima dwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antima dwivedi" height="30" width="40" /></a>
 <a href="https://instagram.com/antima_dwivedi7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="antima_dwivedi7" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/antimadwivedi28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="antimadwivedi28" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/antimadwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="antimadwivedi" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/antimadwivedi28/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/antimadwivedi28/practice/" height="30" width="40" /></a>
 </p>
 
