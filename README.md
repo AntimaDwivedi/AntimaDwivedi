@@ -11,7 +11,7 @@
 
 - :point_right:My hobbies include Reading :books:, Traveling :airplane: ,and Playing Chess :chess_pawn:.
 
-- ⚡ Fun fact **I am a 'Weirdo'.**
+- ⚡  **'Weirdo'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
