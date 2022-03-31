@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antima Dwivedi</h1>
 <h3 align="center">A  Software Engineer</h3>
 
-- :woman_student:  An Alumni of **Rajkiya Engineering College,Banda**:post_office:<br>
+
 
 - 👯 I’m looking to collaborate on **Tech-startups**
 
