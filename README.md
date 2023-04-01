@@ -14,14 +14,6 @@
 - :point_right:My hobbies include Reading :books:, Traveling :airplane: ,and Playing Chess :chess_pawn:.
 
 - ⚡  **I am a Weirdo**
-- <a href="https://twitter.com/DwivediAntima">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<a href="https://linkedin.com/in/antimadwivedi">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
 
 
 
