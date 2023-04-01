@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Antima Dwivedi</h1>
-<h3 align="center">A  Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm Antima</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+!)](https://git.io/typing-svg)
 
 
 
-- 👯 I’m looking to collaborate on **Tech-startups**
+- 👯 I’m looking to collaborate on **open source projects**
 
-- 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/antimadwivedi28/articles](https://auth.geeksforgeeks.org/user/antimadwivedi28/articles)
+- 📝 I regularly write articles on [GFG Published Articles](https://auth.geeksforgeeks.org/user/antimadwivedi28/articles)
 
-- 📫 How to reach me **antimadwivedi28@gmail.com**
+- 📫 How to reach me **[Wite a mail here](antimadwivedi28@gmail.com)**
 
 - :point_right:My hobbies include Reading :books:, Traveling :airplane: ,and Playing Chess :chess_pawn:.
 
