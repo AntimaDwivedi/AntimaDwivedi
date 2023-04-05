@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 📝 I regularly write articles on [GFG](https://auth.geeksforgeeks.org/user/antimadwivedi28/articles)
+- 📝 I  write articles on [GFG](https://auth.geeksforgeeks.org/user/antimadwivedi28/articles)
 
 - 📫 How to reach me **[Wite a mail here](antimadwivedi28@gmail.com)**
 
