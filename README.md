@@ -5,7 +5,7 @@
 
 
 
-- 👯 I’m exploring thye field of  **open source developments**
+- 👯 I’m exploring thye field of  **open source development**
 
 - 📝 I  write articles on [GFG](https://auth.geeksforgeeks.org/user/antimadwivedi28/articles)
 
