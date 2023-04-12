@@ -5,7 +5,7 @@
 
 
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m exploring thye field of  **open source developments**
 
 - 📝 I  write articles on [GFG](https://auth.geeksforgeeks.org/user/antimadwivedi28/articles)
 
