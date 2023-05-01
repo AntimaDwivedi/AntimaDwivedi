@@ -23,4 +23,19 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antimadwivedi&show_icons=true&locale=en" alt="antimadwivedi" /></p>
 
+
+<!-- Stats Cards -->
+<h3>Some Stats :</h3>
+<!--Card 1-->
+<p align="center">
+<img width="46%" src="https://github-readme-stats.vercel.app/api?username=antimadwivedi&theme=synthwave&show_icons=true" />
+<!--Card 2 -->
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=antimadwivedi&show_icons=true&locale=en&layout=compact&theme=synthwave&hide_border=true&count_private=true" />
+ </p>
+ <!--Card 3-->
+ <p align="center">
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antimadwivedi&show_icons=true&locale=en&layout=compact&theme=synthwave&hide_border=true" />
+</p>
+<hr>
+
  
