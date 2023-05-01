@@ -21,8 +21,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antimadwivedi&show_icons=true&locale=en" alt="antimadwivedi" /></p>
-
 
 <!-- Stats Cards -->
 <h3>Some Stats :</h3>
