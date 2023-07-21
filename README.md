@@ -8,7 +8,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{AntimaDwivedi}/count.svg" alt="Antima Dwivedi :: Visitor's Count" /></p>
 
 
-- 👯 I’m exploring thye field of  **open source development**
+- 👯 I’m exploring the field of  **open source development**
 
 - 📝 I  write articles on [GFG](https://auth.geeksforgeeks.org/user/antimadwivedi28/articles)
 
