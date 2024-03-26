@@ -18,22 +18,23 @@
 
 - ⚡  **I am a Weirdo**
 
+#### 👨🏻‍💻 Languages and Tools <br />
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
+
+  
+  
+  
 
 
 
 
-<!-- Stats Cards -->
-<h3>Some Stats :</h3>
-<!--Card 1-->
-<p align="center">
-<img width="46%" src="https://github-readme-stats.vercel.app/api?username=antimadwivedi&theme=synthwave&show_icons=true" />
-<!--Card 2 -->
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=antimadwivedi&show_icons=true&locale=en&layout=compact&theme=synthwave&hide_border=true&count_private=true" />
- </p>
- <!--Card 3-->
- <p align="center">
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antimadwivedi&show_icons=true&locale=en&layout=compact&theme=synthwave&hide_border=true" />
-</p>
-<hr>
 
  
