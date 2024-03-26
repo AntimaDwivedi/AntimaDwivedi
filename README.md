@@ -21,7 +21,8 @@
 - ⚡  **I am a Weirdo**
 <br>
 <br>
-#### Languages and tools ####
+
+### Languages and tools ###
 <br>
   <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
