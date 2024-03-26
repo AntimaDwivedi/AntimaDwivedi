@@ -23,10 +23,7 @@
 <br>
 
 #### 👨🏻‍💻 Languages and Tools <br />
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  
   <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
   <a href="https://https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
@@ -36,31 +33,15 @@
   <a href="https://https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/> </a>
   <a href="https://https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/> </a>
-  <a href="https://https://git-scm.com/" target="_blank"> <img src="" alt="" width="40" height="40"/> </a>
-  <a href="https://https://git-scm.com/" target="_blank"> <img src="" alt="" width="40" height="40"/> </a>
-  <a href="https://https://git-scm.com/" target="_blank"> <img src="" alt="" width="40" height="40"/> </a>
-  <a href="https://https://git-scm.com/" target="_blank"> <img src="" alt="" width="40" height="40"/> </a>
-  <a href="https://https://git-scm.com/" target="_blank"> <img src="" alt="" width="40" height="40"/> </a>
-  <a href="https://https://git-scm.com/" target="_blank"> <img src="" alt="" width="40" height="40"/> </a>
-  <a href="https://https://git-scm.com/" target="_blank"> <img src="" alt="" width="40" height="40"/> </a>
-  <a href="https://https://git-scm.com/" target="_blank"> <img src="" alt="" width="40" height="40"/> </a>
-  <a href="https://https://git-scm.com/" target="_blank"> <img src="" alt="" width="40" height="40"/> </a>
+  <a href="https://https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
+  <a href="https://https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="55" height="40"/> </a>
   <a href="https://https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
   <a href="https://https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="40" height="40"/> </a>
   <a href="https://https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
-
   
   
   
-
-
-
-
+ 
 
  
