@@ -21,12 +21,3 @@
 - ⚡  **I am a Weirdo**
 <br>
 <br>
-
-#### 👨🏻‍💻 Languages and Tools <br />
-  
-  
-  
-
-  
-  
-
