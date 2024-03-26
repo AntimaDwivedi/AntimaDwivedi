@@ -40,8 +40,3 @@
   <a href="https://https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="40" height="40"/> </a>
   <a href="https://https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
   
-  
-  
- 
-
- 
