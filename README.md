@@ -11,7 +11,7 @@
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
-- 👯 I’m exploring the field of  **open source development**
+- 👯 I’m a **Software Engineer** by profession.
 
 - 📝 I  write articles on [GFG](https://auth.geeksforgeeks.org/user/antimadwivedi28/articles)
 
@@ -29,10 +29,10 @@
 
 ### 👨🏻‍💻 Languages and tools ###
 
-  <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="python" width="50" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://www.oracle.com/in/java/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java" width="50" height="40"/> </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+  <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="python" width="50" height="40"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://maven.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="40" height="40"/> </a>
   <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
