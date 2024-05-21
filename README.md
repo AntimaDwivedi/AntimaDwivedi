@@ -13,13 +13,13 @@
 
 - 👯 I’m a **Software Engineer** by profession.
 
-- 📝 I  write articles on [GFG](https://auth.geeksforgeeks.org/user/antimadwivedi28/articles)
-
 - 📫 How to reach me **[Wite a mail here](antimadwivedi28@gmail.com)**
 
 - :point_right:My hobbies include Reading :books:, Traveling :airplane: ,and Playing Chess :chess_pawn:.
+  
+- 📝 Some of my interview experiences are listed here :point_right: [GFG](https://auth.geeksforgeeks.org/user/antimadwivedi28/articles)
 
-- ⚡  **I am a Weirdo**
+-  Often called out as **Weirdo** :woman_cartwheeling:
 <br>
 <br>
 
