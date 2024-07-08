@@ -13,7 +13,7 @@
 
 - 👯 I’m a **Software Engineer** by profession.
 
-- 📫 How to reach me **[Wite a mail here](antimadwivedi28@gmail.com)**
+- 📫 How to reach me **[Write a mail here](antimadwivedi28@gmail.com)**
 
 - :point_right:My hobbies include Reading :books:, Traveling :airplane: ,and Playing Chess :chess_pawn:.
   
